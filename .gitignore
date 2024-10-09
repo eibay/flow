@@ -30,3 +30,4 @@ npm-debug.log
 
 # Ignore Dialyzer’s Persistent Lookup Table (PLT)
 /priv/plts/
+/node_modules
